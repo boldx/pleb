@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name pleb-cache)(type Legacy)(uri ${KIPRJMOD}/pleb-cache.lib)(options "")(descr ""))
+  (lib (name Pleb_Sym)(type Legacy)(uri ${KIPRJMOD}/Pleb_Sym.lib)(options "")(descr ""))
+)
